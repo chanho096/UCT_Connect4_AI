@@ -1,0 +1,8 @@
+# 참조논문
+1. A Survey of Monte Carlo Tree Search Methods 
+2, Monte-Carlo tree search and rapid action value estimation in computer Go
+3. Finite-time Analysis of the Multiarmed Bandit Problem
+
+# 내용
+UCT 알고리즘을 사용한 Connect4 AI 작성.
+rollout 기반 MCTS 탐색 + UCB 알고리즘 (자식 노드 선택) 으로 최적수를 찾는다.
